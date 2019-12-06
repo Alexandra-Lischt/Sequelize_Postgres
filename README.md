@@ -1,4 +1,5 @@
 # Sequelize_Postgres
+ using  PostBird || PgAdmin
 
 ## Install
 
